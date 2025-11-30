@@ -5,7 +5,6 @@ This project analyzes a sample Blinkit sales dataset using Excel. The workflow i
 # Workflow
 
 1. Data Cleaning & Preparation
-
 * Imported the raw Excel dataset and removed duplicates and invalid entries.   
 * Standardized column names and formatted data types.   
 * Converted cleaned data into structured Excel tables for easy analysis.    
