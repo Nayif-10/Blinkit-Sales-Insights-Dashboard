@@ -4,12 +4,12 @@ This project analyzes a sample Blinkit sales dataset using Excel. The workflow i
 
 # Workflow
 
-1. Data Cleaning & Preparation
+**1. Data Cleaning & Preparation**
 * Imported the raw Excel dataset and removed duplicates and invalid entries.   
 * Standardized column names and formatted data types.   
 * Converted cleaned data into structured Excel tables for easy analysis.    
 
-2. KPI Requirements
+**2. KPI Requirements**
 
 * Calculated the following key metrics using pivot tables and formulas:
 
@@ -20,3 +20,21 @@ This project analyzes a sample Blinkit sales dataset using Excel. The workflow i
   * Number of Items
 
   * Average Rating
+
+** 3. Chart Requirements**
+
+* Created pivot charts to address the required metrics:
+
+ * Total Sales by Fat Content
+
+ * Total Sales by Item Type
+
+ * Fat Content by Outlet (Total Sales)
+
+ * Total Sales by Outlet
+
+ * Sales by Outlet Size
+
+ * Sales by Outlet Location
+
+ * All Metrics by Outlet Type
