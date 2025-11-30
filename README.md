@@ -9,3 +9,14 @@ This project analyzes a sample Blinkit sales dataset using Excel. The workflow i
 * Standardized column names and formatted data types.   
 * Converted cleaned data into structured Excel tables for easy analysis.    
 
+2. KPI Requirements
+
+Calculated the following key metrics using pivot tables and formulas:
+
+Total Sales
+
+Average Sales
+
+Number of Items
+
+Average Rating
