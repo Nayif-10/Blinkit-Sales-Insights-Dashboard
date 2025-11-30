@@ -11,12 +11,12 @@ This project analyzes a sample Blinkit sales dataset using Excel. The workflow i
 
 2. KPI Requirements
 
-Calculated the following key metrics using pivot tables and formulas:
+* Calculated the following key metrics using pivot tables and formulas:
 
-Total Sales
+  * Total Sales
 
-Average Sales
+  * Average Sales
 
-Number of Items
+  * Number of Items
 
-Average Rating
+  * Average Rating
