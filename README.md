@@ -21,20 +21,36 @@ This project analyzes a sample Blinkit sales dataset using Excel. The workflow i
 
   * Average Rating
 
-** 3. Chart Requirements**
+**3. Chart Requirements**
 
 * Created pivot charts to address the required metrics:
 
- * Total Sales by Fat Content
+  * Total Sales by Fat Content
 
- * Total Sales by Item Type
+  * Total Sales by Item Type
 
- * Fat Content by Outlet (Total Sales)
+  * Fat Content by Outlet (Total Sales)
 
- * Total Sales by Outlet
+  * Total Sales by Outlet
 
- * Sales by Outlet Size
+  * Sales by Outlet Size
 
- * Sales by Outlet Location
+  * Sales by Outlet Location
 
- * All Metrics by Outlet Type
+  * All Metrics by Outlet Type
+ 
+    
+**4. Dashboard Creation**
+
+* Combined KPIs and all charts into an interactive Excel dashboard.
+
+* Used .png chart exports for clean visual embedding inside the dashboard.
+
+* Styled the layout for clarity and quick interpretation.
+
+**5. Repository Files**
+
+* BlinkMart_Dashboard.xlsx – Contains the cleaned dataset, pivot tables, dashboards, and all calculations.
+
+* .png – PNG images used for the dashboard’s visual components.
+
